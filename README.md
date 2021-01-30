@@ -1,0 +1,2 @@
+# proyectoclustering
+kmeans para cancer 
